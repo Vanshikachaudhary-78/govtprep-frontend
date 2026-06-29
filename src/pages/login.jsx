@@ -1,7 +1,7 @@
 import React from "react";
 import Background from "../components/login/Background";
-import LoginHero from "../components/login/LoginHero";
-import LoginCard from "../components/login/LoginCard";
+import LoginHero from "../components/login/Loginhero";
+import LoginCard from "../components/login/Logincard";
 
 export default function Login() {
   return (
